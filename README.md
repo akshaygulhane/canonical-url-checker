@@ -5,4 +5,4 @@
 ### Built with
 1. Node.js
 2. Cheerio
-3. Axios
+3. Request
